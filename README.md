@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
