@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0189-rotate-array) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
