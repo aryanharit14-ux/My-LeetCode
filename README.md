@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
 ## Quicksort
 |  |
 | ------- |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
