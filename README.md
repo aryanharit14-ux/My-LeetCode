@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
