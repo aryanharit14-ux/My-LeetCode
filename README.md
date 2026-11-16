@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0041-first-missing-positive) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0041-first-missing-positive) |
 ## Math
 |  |
 | ------- |
