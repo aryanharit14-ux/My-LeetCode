@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Math
 |  |
 | ------- |
@@ -123,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -357,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0169-majority-element) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
