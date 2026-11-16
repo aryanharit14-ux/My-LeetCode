@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 ## Backtracking
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 ## Quicksort
 |  |
 | ------- |
