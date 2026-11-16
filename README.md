@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -486,10 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 ## Sweep Line
 |  |
 | ------- |
@@ -526,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
