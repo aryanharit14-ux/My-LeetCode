@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
