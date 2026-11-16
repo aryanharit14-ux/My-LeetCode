@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0066-plus-one) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
