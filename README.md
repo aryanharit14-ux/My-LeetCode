@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0415-add-strings) |
 ## Quicksort
 |  |
 | ------- |
