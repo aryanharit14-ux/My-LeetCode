@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
