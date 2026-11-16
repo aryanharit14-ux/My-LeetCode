@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
