@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
