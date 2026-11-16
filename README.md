@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0078-subsets) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
