@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
