@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
