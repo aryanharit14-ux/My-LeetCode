@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0001-two-sum) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
