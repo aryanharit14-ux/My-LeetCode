@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
