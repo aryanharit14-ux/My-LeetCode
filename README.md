@@ -112,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
