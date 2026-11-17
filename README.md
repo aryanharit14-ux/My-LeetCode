@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0645-set-mismatch) |
+| [0769-max-chunks-to-make-sorted](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Simulation
 |  |
 | ------- |
