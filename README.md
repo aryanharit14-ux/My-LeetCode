@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -959,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0850-rectangle-area-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0850-rectangle-area-ii) |
@@ -974,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0850-rectangle-area-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0850-rectangle-area-ii) |
@@ -1023,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
@@ -1031,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Treap
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
