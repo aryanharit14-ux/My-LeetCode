@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1146-snapshot-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1146-snapshot-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Linked List
 |  |
 | ------- |
