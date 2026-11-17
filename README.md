@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
