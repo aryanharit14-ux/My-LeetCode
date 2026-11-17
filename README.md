@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4015-weighted-sum-of-a-tree) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4020-elevator-requests-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
 | ------- |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4020-elevator-requests-i) |
 ## Quicksort
 |  |
 | ------- |
