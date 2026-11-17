@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
+| [1991-find-the-middle-index-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
+| [1991-find-the-middle-index-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
