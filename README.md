@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 ## Linked List
 |  |
 | ------- |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
