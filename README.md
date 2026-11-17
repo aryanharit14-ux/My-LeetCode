@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 ## Linked List
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 ## Stack
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0682-baseball-game) |
+| [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 ## Quicksort
 |  |
 | ------- |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
