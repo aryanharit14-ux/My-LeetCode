@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0605-can-place-flowers) |
 ## Trie
 |  |
 | ------- |
