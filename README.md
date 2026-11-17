@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4007-widest-possible-fence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4007-widest-possible-fence) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4009-minimum-possible-maximum-waiting-time) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Linked List
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3996-even-number-of-knight-moves](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [4002-count-valid-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4002-count-valid-sequences) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2413-smallest-even-multiple) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Counting Sort
 |  |
 | ------- |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4007-widest-possible-fence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4007-widest-possible-fence) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Radix Sort
 |  |
 | ------- |
