@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0848-shifting-letters) |
 | [0850-rectangle-area-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0850-rectangle-area-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
