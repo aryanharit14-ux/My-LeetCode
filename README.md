@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1383-maximum-performance-of-a-team](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Linked List
 |  |
 | ------- |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1383-maximum-performance-of-a-team](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Trie
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1383-maximum-performance-of-a-team](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Stack
 |  |
 | ------- |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
+| [1383-maximum-performance-of-a-team](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Quickselect
 |  |
 | ------- |
