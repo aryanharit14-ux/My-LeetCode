@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4022-k-th-digit-in-infinite-string) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Recursion
 |  |
 | ------- |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4009-minimum-possible-maximum-waiting-time) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4027-elevator-requests-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4027-elevator-requests-iii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Manacher
 |  |
 | ------- |
