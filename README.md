@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Trie
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
 |  |
 | ------- |
