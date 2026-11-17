@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
