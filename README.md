@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4009-minimum-possible-maximum-waiting-time) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Linked List
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -897,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0850-rectangle-area-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0850-rectangle-area-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sweep Line
 |  |
 | ------- |
@@ -959,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Treap
 |  |
 | ------- |
