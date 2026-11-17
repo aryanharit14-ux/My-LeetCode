@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0845-longest-mountain-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 ## Manacher
 |  |
 | ------- |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -851,15 +855,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
 | [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 ## Graph Theory
 |  |
 | ------- |
