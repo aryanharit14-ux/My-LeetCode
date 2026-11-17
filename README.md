@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
