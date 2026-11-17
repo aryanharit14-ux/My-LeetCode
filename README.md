@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2090-k-radius-subarray-averages](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
