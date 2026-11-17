@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3731-find-missing-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
