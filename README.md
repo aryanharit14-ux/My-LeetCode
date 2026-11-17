@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4015-weighted-sum-of-a-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4015-weighted-sum-of-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4015-weighted-sum-of-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0733-flood-fill) |
+| [4015-weighted-sum-of-a-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
