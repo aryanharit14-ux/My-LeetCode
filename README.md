@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Counting Sort
 |  |
 | ------- |
