@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
