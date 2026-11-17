@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0682-baseball-game) |
 ## Linked List
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0682-baseball-game) |
 ## Quicksort
 |  |
 | ------- |
