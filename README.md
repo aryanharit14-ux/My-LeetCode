@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
 ## Linked List
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0845-longest-mountain-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
 ## Manacher
 |  |
 | ------- |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
