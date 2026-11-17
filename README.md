@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0045-jump-game-ii) |
+| [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
 ## Trie
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
 ## Stack
 |  |
 | ------- |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
