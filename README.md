@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0848-shifting-letters) |
 | [0850-rectangle-area-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0850-rectangle-area-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0848-shifting-letters) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -655,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Quickselect
 |  |
 | ------- |
@@ -705,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Number Theory
 |  |
 | ------- |
