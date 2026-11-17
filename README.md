@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3996-even-number-of-knight-moves](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3996-even-number-of-knight-moves) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Linked List
 |  |
 | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 ## Trie
 |  |
 | ------- |
