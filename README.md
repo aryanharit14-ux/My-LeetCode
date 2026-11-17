@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1480-running-sum-of-1d-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
