@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3999-minimum-number-of-string-groups-through-transformations) |
+| [4006-count-valid-prefixes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4006-count-valid-prefixes) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4026-maximum-gap-between-stations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4026-maximum-gap-between-stations) |
 ## Sliding Window
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4006-count-valid-prefixes](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4006-count-valid-prefixes) |
 | [4007-widest-possible-fence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4007-widest-possible-fence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
