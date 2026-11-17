@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Linked List
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3999-minimum-number-of-string-groups-through-transformations) |
 | [4001-aggregate-two-time-series](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4001-aggregate-two-time-series) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Trie
 |  |
 | ------- |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3731-find-missing-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Stack
 |  |
 | ------- |
