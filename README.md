@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
