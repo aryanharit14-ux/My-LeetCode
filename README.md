@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -950,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Radix Sort
 |  |
 | ------- |
