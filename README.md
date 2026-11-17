@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0986-interval-list-intersections) |
+| [1768-merge-strings-alternately](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
