@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
