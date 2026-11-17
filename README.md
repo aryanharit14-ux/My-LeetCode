@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
