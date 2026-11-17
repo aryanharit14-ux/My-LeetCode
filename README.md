@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Manacher
 |  |
 | ------- |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
