@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4015-weighted-sum-of-a-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4015-weighted-sum-of-a-tree) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4020-elevator-requests-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4024-nearest-available-drone) |
 ## Linked List
 |  |
 | ------- |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4007-widest-possible-fence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4007-widest-possible-fence) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4024-nearest-available-drone](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4024-nearest-available-drone) |
 ## Radix Sort
 |  |
 | ------- |
