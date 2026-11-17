@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
+| [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Sqrt Decomposition
 |  |
 | ------- |
