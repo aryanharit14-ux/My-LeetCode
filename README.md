@@ -885,4 +885,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1683-invalid-tweets](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
