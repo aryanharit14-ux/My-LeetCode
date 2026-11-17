@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 ## Pigeonhole Principle
 |  |
 | ------- |
