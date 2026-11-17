@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0327-count-of-range-sum) |
+| [0334-increasing-triplet-subsequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0414-third-maximum-number) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0045-jump-game-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0502-ipo](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0605-can-place-flowers) |
@@ -1133,4 +1135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4062-transform-array-using-pair-operations) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
