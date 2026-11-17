@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3996-even-number-of-knight-moves](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [3524-find-x-value-of-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4009-minimum-possible-maximum-waiting-time) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4027-elevator-requests-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4027-elevator-requests-iii) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1672-richest-customer-wealth) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Backtracking
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4027-elevator-requests-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4027-elevator-requests-iii) |
 ## Range Minimum/Maximum Query
 |  |
