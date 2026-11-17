@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
