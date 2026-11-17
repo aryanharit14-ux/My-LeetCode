@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
+| [1920-build-array-from-permutation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
 | ------- |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
+| [1920-build-array-from-permutation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Quicksort
 |  |
 | ------- |
