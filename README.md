@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1927-sum-game) |
 | [2381-shifting-letters-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2381-shifting-letters-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2381-shifting-letters-ii) |
+| [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
