@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
 | ------- |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
