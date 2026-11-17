@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4027-elevator-requests-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4027-elevator-requests-iii) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3999-minimum-number-of-string-groups-through-transformations) |
 | [4007-widest-possible-fence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4007-widest-possible-fence) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Math
 |  |
 | ------- |
