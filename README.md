@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4015-weighted-sum-of-a-tree) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Linked List
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1146-snapshot-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [3524-find-x-value-of-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4009-minimum-possible-maximum-waiting-time) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Manacher
 |  |
 | ------- |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Backtracking
 |  |
 | ------- |
