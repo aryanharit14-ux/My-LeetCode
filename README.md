@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4027-elevator-requests-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4027-elevator-requests-iii) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3731-find-missing-elements) |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3999-minimum-number-of-string-groups-through-transformations) |
 | [4007-widest-possible-fence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4007-widest-possible-fence) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
 | ------- |
