@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4002-count-valid-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4002-count-valid-sequences) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Recursion
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [4022-k-th-digit-in-infinite-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Divide and Conquer
 |  |
 | ------- |
