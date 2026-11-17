@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0905-sort-array-by-parity) |
