@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0850-rectangle-area-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0905-sort-array-by-parity](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0905-sort-array-by-parity](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
