@@ -880,4 +880,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1146-snapshot-array) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
