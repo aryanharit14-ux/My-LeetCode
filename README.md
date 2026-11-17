@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3996-even-number-of-knight-moves](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3996-even-number-of-knight-moves) |
+| [4002-count-valid-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4002-count-valid-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -1015,4 +1016,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [4002-count-valid-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4002-count-valid-sequences) |
 <!---LeetCode Topics End-->
