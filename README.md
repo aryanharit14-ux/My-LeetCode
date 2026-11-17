@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4001-aggregate-two-time-series](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4001-aggregate-two-time-series) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 | [4007-widest-possible-fence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4007-widest-possible-fence) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Linked List
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1146-snapshot-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1146-snapshot-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Trie
 |  |
 | ------- |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
