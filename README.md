@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4009-minimum-possible-maximum-waiting-time](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4009-minimum-possible-maximum-waiting-time) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4015-weighted-sum-of-a-tree) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1146-snapshot-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4022-k-th-digit-in-infinite-string) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
