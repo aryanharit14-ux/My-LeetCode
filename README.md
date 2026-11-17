@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1927-sum-game) |
 | [2381-shifting-letters-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2381-shifting-letters-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2090-k-radius-subarray-averages](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |
