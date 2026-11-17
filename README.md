@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4027-elevator-requests-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4027-elevator-requests-iii) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Linked List
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4022-k-th-digit-in-infinite-string) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
 | ------- |
