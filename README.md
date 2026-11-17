@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2381-shifting-letters-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
 | ------- |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0547-number-of-provinces) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
