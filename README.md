@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 ## Linked List
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 ## Math
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+| [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 ## Stack
 |  |
 | ------- |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1854-maximum-population-year](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1872-stone-game-viii) |
+| [1943-describe-the-painting](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1943-describe-the-painting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
