@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3996-even-number-of-knight-moves](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3996-even-number-of-knight-moves) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
 | [4001-aggregate-two-time-series](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4001-aggregate-two-time-series) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1672-richest-customer-wealth) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 | [1383-maximum-performance-of-a-team](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0547-number-of-provinces) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -1020,4 +1024,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4002-count-valid-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4002-count-valid-sequences) |
+## Shortest Path
+|  |
+| ------- |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 <!---LeetCode Topics End-->
