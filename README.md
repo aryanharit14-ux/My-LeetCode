@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4062-transform-array-using-pair-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -1099,4 +1100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4027-elevator-requests-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4027-elevator-requests-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
