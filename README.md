@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0622-design-circular-queue) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0933-number-of-recent-calls](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -785,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0912-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
