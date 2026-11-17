@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/2381-shifting-letters-ii) |
 | [3361-shift-distance-between-two-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3361-shift-distance-between-two-strings) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
