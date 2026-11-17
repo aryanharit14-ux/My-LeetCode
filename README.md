@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3996-even-number-of-knight-moves](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3996-even-number-of-knight-moves) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4002-count-valid-sequences](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4002-count-valid-sequences) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3998-transform-binary-string-using-subsequence-sort) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
