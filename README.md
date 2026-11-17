@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0986-interval-list-intersections) |
 | [1051-height-checker](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/1094-car-pooling) |
 ## Linked List
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0986-interval-list-intersections) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0218-the-skyline-problem) |
 | [0850-rectangle-area-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0850-rectangle-area-ii) |
+| [0986-interval-list-intersections](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0986-interval-list-intersections) |
 ## Ordered Set
 |  |
 | ------- |
