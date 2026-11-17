@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0551-student-attendance-record-i) |
 ## Sliding Window
 |  |
 | ------- |
