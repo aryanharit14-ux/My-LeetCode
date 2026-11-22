@@ -3,7 +3,7 @@ class Solution {
         Stack<Character> ans = new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-            if(!ans.empty() && ans.peek()==ch){
+            if(!ans.isEmpty() && ans.peek()==ch){
                 ans.pop();
             }else{
                 ans.push(ch);
