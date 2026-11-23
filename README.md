@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/aryanharit14-ux/My-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
